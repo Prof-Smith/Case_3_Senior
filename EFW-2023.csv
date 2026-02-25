@@ -1,4 +1,4 @@
-ISO_Code,Countries,Year,Summary,Size of Government,Legal System and Property Rights,Sound Money,Freedom to Trade,Regulation,World Bank Region,"World Bank Current Income Classification, 1990-Present"
+ISO_Code,Countries,Year,Summary,Size of Government,Legal System and Property Rights,Sound Money,International Trade Freeedom,Regulation,World Bank Region,"World Bank Current Income Classification, 1990-Present"
 ALB,Albania,2023,7.56,7.637373083,5.552221517,8.948483539,8.53616372,7.10851752,Europe & Central Asia,Upper-Middle Income
 DZA,Algeria,2023,4.24,4.296913198,3.788304558,6.382110594,2.593994402,4.118263361,Middle East & North Africa,Upper-Middle Income
 AGO,Angola,2023,5.16,7.834421518,3.477577314,4.378910665,4.971710943,5.135052969,Sub-Saharan Africa,Lower-Middle Income
@@ -164,4 +164,5 @@ VNM,Vietnam,2023,6.21,6.521869748,5.304786461,6.809454669,6.571325716,5.85056121
 YEM,"Yemen, Rep.",2023,5.08,8.302377639,2.169928082,7.473686878,4.612214776,2.852760103,Middle East & North Africa,Low Income
 ZMB,Zambia,2023,6.24,6.51815641,5.266855876,7.185609676,6.674626824,5.533965825,Sub-Saharan Africa,Lower-Middle Income
 ZWE,Zimbabwe,2023,3.91,5.526852034,3.610166251,1.25,3.97522719,5.194569004,Sub-Saharan Africa,Lower-Middle Income
+
 
